@@ -1,0 +1,13 @@
+{
+  "name": "ianstormtaylor-get",
+  "description": "Get a property from a model or object.",
+  "version": "0.0.1",
+  "keywords": [
+    "get",
+    "property",
+    "model",
+    "object"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
